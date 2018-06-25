@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GangaJal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="term_and_condition">Term And Condition</string>
+    <string name="term_and_condition_"><u>Term And Conditions</u></string>
+    <string name="charity">Charity</string>
+    <string name="order">Order</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_zone">Enter Zone</string>
+    <string name="write_your_comment_here">Write Your Comment Here</string>
+    <string name="submit">Submit</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="home">Home</string>
+    <string name="free_gangajal">Free GangaJal</string>
+    <string name="by_indraprasth_sanjeevni_ngo">By Indraprasth Sanjeevni NGO</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="please_take_a_pledge_for_clean_ganga"><u>Please Take a Pledge for Clean Ganga</u></string>
+    <string name="pledge">Pledge</string>
+    <string name="i_accept">I accept</string>
+
+</resources>
